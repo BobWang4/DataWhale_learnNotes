@@ -67,7 +67,7 @@ WHERE regist_date > '2009-04-28';
 
 2、
 
-3条select语句均错误，NULL不能使用比较运算符，而是使用is null或者 is not null。
+查询结果为空，因为3条select语句均错误，NULL不能使用比较运算符，而是使用is null或者 is not null。
 
 3、
 
